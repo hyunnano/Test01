@@ -1,0 +1,7 @@
+#Logs (#주석)
+logs
+*.log
+npm-debug.log*
+
+#directories
+node_modules/
